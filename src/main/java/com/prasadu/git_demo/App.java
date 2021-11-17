@@ -7,6 +7,7 @@ package com.prasadu.git_demo;
 public class App 
 {
 	public void addData(String data) {
+		System.out.println("Hello");
 		if(data.equals("welcome")) {
 		System.out.println("Data="+data);
 		}
