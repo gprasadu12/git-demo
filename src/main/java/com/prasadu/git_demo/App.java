@@ -10,6 +10,7 @@ public class App
 		System.out.println("Hello");
 		if(data.equals("welcome")) {
 		System.out.println("Data="+data);
+		System.out.println("Added for pull request");	
 		}
 	}
     public static void main( String[] args )
